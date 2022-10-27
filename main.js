@@ -7,9 +7,7 @@ const shoppingList = [
     'Disinfettante'
 ];
 
-console.log(shoppingList);
 const ulList = document.getElementById("list");
-console.log(ulList);
 
 let i = 0;
 
